@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Junior QA Automation Engineer | IT Troubleshooting Expert
 
-I am an ambitious QA professional transitioning from a 4-year background in IT Technical Support (L1/L2). My experience in root cause analysis (RCA) and hardware/software troubleshooting gives me a unique, analytical edge in software testing. Currently, I am expanding my automated testing skills (JavaScript, Python, Playwright) at Mate Academy.
+I am an ambitious QA professional transitioning from a 2-year background in IT Technical Support (L1/L2). My experience in root cause analysis (RCA) and hardware/software troubleshooting gives me a unique, analytical edge in software testing. Currently, I am expanding my automated testing skills (JavaScript, Python, Playwright) at Mate Academy.
 
 ### 🛠️ Tech Stack & Tools
 * **Testing:** Manual Testing, UI/Web Verification, API Testing
