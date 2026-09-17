@@ -1,4 +1,4 @@
-# Hi there, I'm Nikita Rysiev 👋
+# Hi there, I'm Nikita 👋
 
 ### 👨‍💻 Junior QA Automation Engineer | IT Troubleshooting Expert
 
