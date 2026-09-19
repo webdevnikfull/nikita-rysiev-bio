@@ -18,6 +18,6 @@ I am an ambitious QA professional transitioning from a 2-year background in IT T
 * Transitioning my strong IT Helpdesk troubleshooting skills into writing bulletproof automated test scripts.
 
 ### 📫 How to reach me
-* **LinkedIn:** [in/nikita-rysiev](https://[linkedin.com/in/twoj-link-do-linkedin](https://www.linkedin.com/in/nikita-rysiev-a4b7921b4/))
+* **LinkedIn:** [in/nikita-rysiev](https://www.linkedin.com/in/nikita-rysiev-a4b7921b4/)
 * **Portfolio:** [nikita-portfolio.com.pl](http://www.nikita-portfolio.com.pl)
 * **Email:** nikita.rysiev@gmail.com
