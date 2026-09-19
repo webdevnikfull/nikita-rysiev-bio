@@ -1,3 +1,5 @@
+<img src="baner.jpg" width="100%" alt="QA Automation Banner">
+
 # Hi there, I'm Nikita 👋
 
 ### 👨‍💻 Junior QA Automation Engineer | IT Troubleshooting Expert
