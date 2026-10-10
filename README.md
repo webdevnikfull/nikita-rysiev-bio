@@ -1,5 +1,7 @@
 # Hi there, I'm Nikita 🙂
 
+[](IT_Support_Specialist_Mountain_Sunrise_Banner.png)
+
 ### 👨‍💻 IT Support Specialist (L1/L2) | Systems Administrator
 
 I am an experienced IT professional with a solid 3-year background in Technical Support (L1/L2) and IT infrastructure maintenance. I specialize in root cause analysis (RCA), hardware/software troubleshooting, and managing corporate environments (Active Directory, Microsoft 365, Windows Server). I combine strong analytical skills with hands-on technical expertise to resolve complex incidents efficiently and maintain high SLA standards.
