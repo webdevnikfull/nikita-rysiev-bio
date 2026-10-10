@@ -1,6 +1,6 @@
 # Hi there, I'm Nikita 🙂
 
-[](IT_Support_Specialist_Mountain_Sunrise_Banner.png)
+![Banner](IT_Support_Specialist_Mountain_Sunrise_Banner.png)
 
 ### 👨‍💻 IT Support Specialist (L1/L2) | Systems Administrator
 
